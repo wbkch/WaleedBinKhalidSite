@@ -40,7 +40,7 @@ const SideBar = () => (
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy; Waleed Bin Khalid <Link to="/">waleedbinkhalid.me</Link>.</p>
+      <p className="copyright"><Link to="/">https://wbkch.github.io/WaleedBinKhalidSite/</Link>.</p>
     </section>
   </section>
 );
