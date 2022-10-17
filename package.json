@@ -1,15 +1,14 @@
 {
-  "name": "hsnmnr-site",
+  "name": "wbkch-site",
   "version": "3.0.1",
-  "homepage": "https://hassanmunir.me/",
+  "homepage": "https://wbkch.github.io/WaleedBinKhalidSite",
   "license": "MIT",
   "repository": {
-    "type": "git",
-    "url": "https://github.com/hsnmnr/hsnmnr-site.git"
+    "type": "git"
   },
   "scripts": {
     "build": "rimraf ./build && react-scripts build",
-    "predeploy": "npm run build && react-snap",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "lint": "eslint src",
@@ -25,7 +24,7 @@
     "@material-ui/core": "^4.12.3",
     "@material-ui/icons": "^4.11.2",
     "dayjs": "^1.10.4",
-    "gh-pages": "^3.1.0",
+    "gh-pages": "^3.2.3",
     "node-sass": "^6.0.1",
     "prop-types": "^15.7.2",
     "raw.macro": "^0.4.2",
