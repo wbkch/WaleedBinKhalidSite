@@ -1,0 +1,36 @@
+{
+  "files": {
+    "static/js/0.0a1209fc.chunk.js": "/WaleedBinKhalidSite/static/js/0.0a1209fc.chunk.js",
+    "static/js/0.0a1209fc.chunk.js.map": "/WaleedBinKhalidSite/static/js/0.0a1209fc.chunk.js.map",
+    "main.css": "/WaleedBinKhalidSite/static/css/main.a198939a.chunk.css",
+    "main.js": "/WaleedBinKhalidSite/static/js/main.e4d199aa.chunk.js",
+    "main.js.map": "/WaleedBinKhalidSite/static/js/main.e4d199aa.chunk.js.map",
+    "runtime-main.js": "/WaleedBinKhalidSite/static/js/runtime-main.dfd0d34f.js",
+    "runtime-main.js.map": "/WaleedBinKhalidSite/static/js/runtime-main.dfd0d34f.js.map",
+    "static/js/3.b1f93b54.chunk.js": "/WaleedBinKhalidSite/static/js/3.b1f93b54.chunk.js",
+    "static/js/3.b1f93b54.chunk.js.map": "/WaleedBinKhalidSite/static/js/3.b1f93b54.chunk.js.map",
+    "static/js/4.faaad9d9.chunk.js": "/WaleedBinKhalidSite/static/js/4.faaad9d9.chunk.js",
+    "static/js/4.faaad9d9.chunk.js.map": "/WaleedBinKhalidSite/static/js/4.faaad9d9.chunk.js.map",
+    "static/js/5.f5de9cc3.chunk.js": "/WaleedBinKhalidSite/static/js/5.f5de9cc3.chunk.js",
+    "static/js/5.f5de9cc3.chunk.js.map": "/WaleedBinKhalidSite/static/js/5.f5de9cc3.chunk.js.map",
+    "static/js/6.9deb121f.chunk.js": "/WaleedBinKhalidSite/static/js/6.9deb121f.chunk.js",
+    "static/js/6.9deb121f.chunk.js.map": "/WaleedBinKhalidSite/static/js/6.9deb121f.chunk.js.map",
+    "static/js/7.f911a3ef.chunk.js": "/WaleedBinKhalidSite/static/js/7.f911a3ef.chunk.js",
+    "static/js/7.f911a3ef.chunk.js.map": "/WaleedBinKhalidSite/static/js/7.f911a3ef.chunk.js.map",
+    "static/js/8.f21128f9.chunk.js": "/WaleedBinKhalidSite/static/js/8.f21128f9.chunk.js",
+    "static/js/8.f21128f9.chunk.js.map": "/WaleedBinKhalidSite/static/js/8.f21128f9.chunk.js.map",
+    "static/js/9.a056ab1d.chunk.js": "/WaleedBinKhalidSite/static/js/9.a056ab1d.chunk.js",
+    "static/js/9.a056ab1d.chunk.js.map": "/WaleedBinKhalidSite/static/js/9.a056ab1d.chunk.js.map",
+    "index.html": "/WaleedBinKhalidSite/index.html",
+    "static/css/main.a198939a.chunk.css.map": "/WaleedBinKhalidSite/static/css/main.a198939a.chunk.css.map",
+    "static/js/0.0a1209fc.chunk.js.LICENSE.txt": "/WaleedBinKhalidSite/static/js/0.0a1209fc.chunk.js.LICENSE.txt",
+    "static/js/3.b1f93b54.chunk.js.LICENSE.txt": "/WaleedBinKhalidSite/static/js/3.b1f93b54.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "/WaleedBinKhalidSite/static/media/loading.c517a3f8.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dfd0d34f.js",
+    "static/js/3.b1f93b54.chunk.js",
+    "static/css/main.a198939a.chunk.css",
+    "static/js/main.e4d199aa.chunk.js"
+  ]
+}
