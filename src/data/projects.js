@@ -24,6 +24,7 @@ const data = [
       + ' Consists of simple react components and Basic search capabality.'
       + ' Deployed on github pages.',
   },
+
 ];
 
 export default data;

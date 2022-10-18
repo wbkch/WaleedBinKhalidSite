@@ -39,11 +39,11 @@ const data = [
   //   label: 'Twitter',
   //   icon: faTwitter,
   // },
-  // {
-  //   link: 'mailto:hassanmunir.me@gmail.com',
-  //   label: 'Email',
-  //   icon: faEnvelope,
-  // },
+  {
+    link: 'mailto:waleedbinkhalidch@gmail.com',
+    label: 'Email',
+    icon: faEnvelope,
+  },
 ];
 
 export default data;

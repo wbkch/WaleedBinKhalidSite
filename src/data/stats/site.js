@@ -8,17 +8,17 @@ const data = [
   {
     label: 'Stars this repository has on github',
     key: 'stargazers_count',
-    link: 'https://github.com/hsnmnr/hsnmnr-site/stargazers',
+    link: 'https://github.com/wbkch/WaleedSite/stargazers',
   },
   {
     label: 'Number of people watching this repository',
     key: 'subscribers_count',
-    link: 'https://github.com/hsnmnr/hsnmnr-site/stargazers',
+    link: 'https://github.com/wbkch/WaleedSite/stargazers',
   },
   {
     label: 'Number of forks',
     key: 'forks',
-    link: 'https://github.com/hsnmnr/hsnmnr-site/network',
+    link: 'https://github.com/wbkch/WaleedSite/network',
   },
   {
     label: 'Number of spoons',
@@ -31,12 +31,12 @@ const data = [
   {
     label: 'Open github issues',
     key: 'open_issues_count',
-    link: 'https://github.com/hsnmnr/hsnmnr-site/issues',
+    link: 'https://github.com/wbkch/WaleedSite/issues',
   },
   {
     label: 'Last updated at',
     key: 'pushed_at',
-    link: 'https://github.com/hsnmnr/hsnmnr-site/commits',
+    link: 'https://github.com/wbkch/WaleedSite/commits',
     format: (x) => dayjs(x).format('MMMM DD, YYYY'),
   },
   {
@@ -45,7 +45,7 @@ const data = [
     xargs -I file cat file | wc -l */
     label: 'Lines of Javascript powering this website',
     value: '2115',
-    link: 'https://github.com/hsnmnr/hsnmnr-site/graphs/contributors',
+    link: 'https://github.com/wbkch/WaleedSite/graphs/contributors',
   },
 ];
 

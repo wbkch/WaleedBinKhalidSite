@@ -15,7 +15,7 @@ const Index = () => (
         <div className="title">
           <h2 data-testid="heading"><Link to="/">Who Am I?</Link></h2>
           <p>
-            I am a React Frontend Web developer with a passion for building smart andeasy-to-use applications. I am a perfectionist with a sense of detail and ensure quality and high professionalism in everything I do. One word – programmer.
+          I am a React Frontend Web developer with a passion for building smart andeasy-to-use applications. I am a perfectionist with a sense of detail and ensure quality and high professionalism in everything I do. One word – programmer.
           </p>
         </div>
       </header>
@@ -25,12 +25,12 @@ const Index = () => (
         <p className="technologies">
           JavaScript, React, Hooks, Redux
         </p>
-        <br />
-        {/* <FontAwesomeIcon icon={faPlus} /> Backend
+        {/* <br />
+        <FontAwesomeIcon icon={faPlus} /> Backend
         <p className="technologies">
           Node.js, Express.js, Rest, GraphQL
         </p> */}
-        {/* <br /> */}
+        <br />
         <FontAwesomeIcon icon={faPlus} /> Databases
         <p className="technologies">
            Firebase Firestore
@@ -38,17 +38,17 @@ const Index = () => (
         <br />
         <FontAwesomeIcon icon={faPlus} /> Design
         <p className="technologies">
-          Bootstrap
+          Sass, Styled-Component
         </p>
         <br />
-        {/* <FontAwesomeIcon icon={faPlus} /> Others
+        <FontAwesomeIcon icon={faPlus} /> Others
         <p className="technologies">
-          Game Development, Android Application Development, Python
+          Android Application Development
         </p>
-        <br /> */}
+        <br />
         <FontAwesomeIcon icon={faPlus} /> Tools
         <p className="technologies">
-          VS Code, GitHub, Git, Slack, Android Studio
+          VS Code, GitHub, Git, Slack,Figma, Android Studio
         </p>
       </p>
       <br />
@@ -67,13 +67,13 @@ const Index = () => (
           <a href="https://www.linkedin.com/in/waleed-bin-khalid-wbkch/" rel="noreferrer" target="_blank" className="button">LinkedIn</a>
         </li>
         <li>
-          <a href="https://github.com/wbkch" rel="noreferrer" target="_blank" className="button">Github</a>
+          <a href="https://www.github.com/wbkch" rel="noreferrer" target="_blank" className="button">Github</a>
         </li>
         <li>
           <Link to="/contact" className="button">Contact</Link>
         </li>
       </ul>
-      {/* <p> Source available <a href="https://github.com/wbkch" rel="noreferrer" target="_blank">here</a>.</p> */}
+      {/* <p> Source available <a href="https://github.com/hsnmnr/" rel="noreferrer" target="_blank">here</a>.</p> */}
     </article>
   </Main>
 );

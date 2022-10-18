@@ -9,13 +9,13 @@ const SideBar = () => (
   <section id="sidebar">
     <section id="intro">
       <Link to="/" className="logo">
-        <img src={`${PUBLIC_URL}/images/me.jpg`} alt="" />
+        <img src={`${PUBLIC_URL}/images/me.jpeg`} alt="" />
       </Link>
       <header>
         <Link to="/">
           <h2>Waleed Bin Khalid</h2>
         </Link>
-        <p><a href="mailto:waleedbinkhalidch@gmail.com">waleedbinkhalidch@gmailcom</a></p>
+        <p><a href="mailto:waleedbinkhalidch@gmail.com">waleedbinkhalidch@gmail.com</a></p>
       </header>
     </section>
 
@@ -40,7 +40,7 @@ const SideBar = () => (
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright"><Link to="/">https://wbkch.github.io/WaleedBinKhalidSite/</Link>.</p>
+      <p className="copyright">&copy; Waleed Bin Khalid <Link to="/">https://wbkch.github.io/WaleedSite /</Link>.</p>
     </section>
   </section>
 );
