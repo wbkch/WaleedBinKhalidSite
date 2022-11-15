@@ -1,7 +1,7 @@
 const routes = [
   {
     index: true,
-    label: 'Waleed Bin Khalid',
+    label: 'WALEED BIN KHALID',
     path: '/',
   },
   // {

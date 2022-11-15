@@ -9,7 +9,7 @@ import Site from '../components/Stats/Site';
 const Stats = () => (
   <Main
     title="Stats"
-    description="Some statistics about Waleed Bin Khalid"
+    description="Some statistics about WALEED BIN KHALID and wbkhalid.netlify.app"
   >
     <article className="post" id="stats">
       <header>

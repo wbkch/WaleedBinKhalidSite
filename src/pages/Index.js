@@ -8,14 +8,16 @@ import Main from '../layouts/Main';
 
 const Index = () => (
   <Main
-    description={"Waleed Bin Khalid's personal website. Lahore based Frontend Web developer."}
+    description={"WALEED BIN KHALID's personal website. Lahore based Full-Stack developer."}
   >
     <article className="post" id="index">
       <header>
         <div className="title">
           <h2 data-testid="heading"><Link to="/">Who Am I?</Link></h2>
           <p>
-          I am a React Frontend Web developer with a passion for building smart andeasy-to-use applications. I am a perfectionist with a sense of detail and ensure quality and high professionalism in everything I do. One word – programmer.
+            I am a full-stack web developer with a passion for building smart and
+            easy-to-use applications. I am a perfectionist with a sense of detail
+            and ensure quality and high professionalism in everything I do. One word – programmer.
           </p>
         </div>
       </header>
@@ -23,32 +25,27 @@ const Index = () => (
         <br />
         <FontAwesomeIcon icon={faPlus} /> Frontend
         <p className="technologies">
-          JavaScript, React, Hooks, Redux
+          JavaScript, React, Next.js, Hooks, Redux
         </p>
-        {/* <br />
+        <br />
         <FontAwesomeIcon icon={faPlus} /> Backend
         <p className="technologies">
-          Node.js, Express.js, Rest, GraphQL
-        </p> */}
+          Node.js, Express.js, Rest
+        </p>
         <br />
         <FontAwesomeIcon icon={faPlus} /> Databases
         <p className="technologies">
-           Firebase Firestore
+          MongoDB, MySQL
         </p>
         <br />
         <FontAwesomeIcon icon={faPlus} /> Design
         <p className="technologies">
-          Sass, Styled-Component
-        </p>
-        <br />
-        <FontAwesomeIcon icon={faPlus} /> Others
-        <p className="technologies">
-          Android Application Development
+          Sass, Styled Components
         </p>
         <br />
         <FontAwesomeIcon icon={faPlus} /> Tools
         <p className="technologies">
-          VS Code, GitHub, Git, Slack,Figma, Android Studio
+          VS Code, GitHub, Git, Slack, Trello
         </p>
       </p>
       <br />
@@ -64,16 +61,15 @@ const Index = () => (
           <Link to="/Projects" className="button">Projects</Link>
         </li>
         <li>
-          <a href="https://www.linkedin.com/in/waleed-bin-khalid-wbkch/" rel="noreferrer" target="_blank" className="button">LinkedIn</a>
+          <a href="https://www.linkedin.com/in/wbkhalid" rel="noreferrer" target="_blank" className="button">LinkedIn</a>
         </li>
         <li>
-          <a href="https://www.github.com/wbkch" rel="noreferrer" target="_blank" className="button">Github</a>
+          <a href="https://www.github.com/wbkhalid" rel="noreferrer" target="_blank" className="button">Github</a>
         </li>
         <li>
           <Link to="/contact" className="button">Contact</Link>
         </li>
       </ul>
-      {/* <p> Source available <a href="https://github.com/hsnmnr/" rel="noreferrer" target="_blank">here</a>.</p> */}
     </article>
   </Main>
 );

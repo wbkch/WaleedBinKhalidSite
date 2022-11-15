@@ -8,7 +8,9 @@ const Stats = () => {
   // TODO think about persisting this somewhere
   const fetchData = useCallback(async () => {
     // request must be authenticated if private
-    const res = await fetch('https://api.github.com/repos/wbkch/WaleedBinKhalidSite');
+    const res = await fetch(
+      'https://api.github.com/repos/wbkhalid/wbkhalid-site',
+    );
     const resData = await res.json();
     setResponseData(
       initialData.map((field) => ({
@@ -17,7 +19,7 @@ const Stats = () => {
         value: Object.keys(resData).includes(field.key)
           ? resData[field.key]
           : field.value,
-      }))
+      })),
     );
   }, []);
 

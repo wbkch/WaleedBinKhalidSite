@@ -2,23 +2,23 @@ import dayjs from 'dayjs';
 
 /* Keys match keys returned by the github api. Fields without keys are
  * mostly jokes. To see everything returned by the github api, run:
- curl https://api.github.com/repos/hsnmnr/hsnmnr-site
+ curl https://api.github.com/repos/wbkhalid/wbkhalid-site
  */
 const data = [
   {
     label: 'Stars this repository has on github',
     key: 'stargazers_count',
-    link: 'https://github.com/wbkch/WaleedBinKhalidSite/stargazers',
+    link: 'https://github.com/wbkhalid/wbkhalid-site/stargazers',
   },
   {
     label: 'Number of people watching this repository',
     key: 'subscribers_count',
-    link: 'https://github.com/wbkch/WaleedBinKhalidSite/stargazers',
+    link: 'https://github.com/wbkhalid/wbkhalid-site/stargazers',
   },
   {
     label: 'Number of forks',
     key: 'forks',
-    link: 'https://github.com/wbkch/WaleedBinKhalidSite/network',
+    link: 'https://github.com/wbkhalid/wbkhalid-site/network',
   },
   {
     label: 'Number of spoons',
@@ -31,12 +31,12 @@ const data = [
   {
     label: 'Open github issues',
     key: 'open_issues_count',
-    link: 'https://github.com/wbkch/WaleedBinKhalidSite/issues',
+    link: 'https://github.com/wbkhalid/wbkhalid-site/issues',
   },
   {
     label: 'Last updated at',
     key: 'pushed_at',
-    link: 'https://github.com/wbkch/WaleedBinKhalidSite/commits',
+    link: 'https://github.com/wbkhalid/wbkhalid-site/commits',
     format: (x) => dayjs(x).format('MMMM DD, YYYY'),
   },
   {
@@ -45,7 +45,7 @@ const data = [
     xargs -I file cat file | wc -l */
     label: 'Lines of Javascript powering this website',
     value: '2115',
-    link: 'https://github.com/wbkch/WaleedBinKhalidSite/graphs/contributors',
+    link: 'https://github.com/wbkhalid/wbkhalid-site/graphs/contributors',
   },
 ];
 

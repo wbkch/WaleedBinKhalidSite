@@ -9,14 +9,11 @@ import { faGithub } from '@fortawesome/free-brands-svg-icons/faGithub';
 import { faLinkedin } from '@fortawesome/free-brands-svg-icons/faLinkedin';
 
 import Main from '../layouts/Main';
-// import EmailLink from '../components/Contact/EmailLink';
-
-// import ContactIcons from '../components/Contact/ContactIcons';
 
 const Contact = () => (
   <Main
     title="Contact"
-    description="Contact Waleed Bin Khalid via email @ waleedbinkhalidch@gmail.com"
+    description="Contact WALEED BIN KHALID via email @ michael.l.dangelo@gmail.com"
   >
     <article className="post" id="contact">
       <header>
@@ -26,13 +23,12 @@ const Contact = () => (
       </header>
       <div className="email-at">
         <p>Feel free to get in touch. You can contact me at: </p>
-        {/* <EmailLink /> */}
-        <a href="tel:+923058995952" rel="noreferrer" target="_blank">
+        <a href="tel:+923070401940" rel="noreferrer" target="_blank">
           <FontAwesomeIcon icon={faPhone} /> (+92) 305 8995952
         </a>
         <br />
-        <a href="mailto:waleedbinkhalidch@gmail.com" rel="noreferrer" target="_blank">
-          <FontAwesomeIcon icon={faEnvelope} /> waleedbinkhalidch@gmail.com
+        <a href="mailto:waleedbinkhalid.me@gmail.com" rel="noreferrer" target="_blank">
+          <FontAwesomeIcon icon={faEnvelope} /> waleedbinkhalid.me@gmail.com
         </a>
         <br />
         <a href=" http://maps.google.com/?q=Lahore, Pakistan" rel="noreferrer" target="_blank">
@@ -44,18 +40,12 @@ const Contact = () => (
       <br />
       <ul className="actions">
         <li>
-          <a href="https://www.linkedin.com/in/waleed-bin-khalid-wbkch/" rel="noreferrer" target="_blank" className="button"><FontAwesomeIcon icon={faLinkedin} /> LinkedIn</a>
+          <a href="https://www.linkedin.com/in/wbkhalid" rel="noreferrer" target="_blank" className="button"><FontAwesomeIcon icon={faLinkedin} /> LinkedIn</a>
         </li>
         <li>
-          <a href="https://github.com/wbkch" rel="noreferrer" target="_blank" className="button"><FontAwesomeIcon icon={faGithub} /> Github</a>
+          <a href="https://www.github.com/wbkhalid" rel="noreferrer" target="_blank" className="button"><FontAwesomeIcon icon={faGithub} /> Github</a>
         </li>
-        {/* <li>
-          <a href="mailto:hassanmunir.me@gmail.com"
-          rel="noreferrer" target="_blank"
-          className="button"><FontAwesomeIcon icon={faEnvelope} /> eMail</a>
-        </li> */}
       </ul>
-      {/* <ContactIcons /> */}
     </article>
   </Main>
 );
