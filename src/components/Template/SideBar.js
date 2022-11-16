@@ -22,7 +22,7 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>Hi, I&apos;m Waleed. A code-blooded Computer
-        Scientist, <a href="https://skillcrush.com/blog/front-end-back-end-full-stack/" rel="noreferrer" target="_blank">Full Stack Engineer</a>,
+        Scientist, <a href="https://skillcrush.com/blog/front-end-back-end-full-stack/" rel="noreferrer" target="_blank">React Developer</a>,
         and Alumni of <a href="http://web.uaf.edu.pk/" rel="noreferrer" target="_blank">University of Agriculture</a>.
         I live in <a href="https://en.wikipedia.org/wiki/Lahore" rel="noreferrer" target="_blank">Lahore - the city of gardens</a>.
         I enjoy learning and creating new things.
