@@ -1,6 +1,17 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: 'Ecommerce - (React)',
+    subtitle: 'A react frontend application',
+    link: 'https://wbk-ecommerce.netlify.app/',
+    image: '/images/projects/ecommerce.jpg',
+    date: '2022-11-15',
+    desc:
+      'React Ecommerce poject. '
+      + ' Consists of  react components and calling API through Axios and store data to local storage.'
+      + ' Deployed on Netlify pages.',
+  },
+  {
     title: 'Add User - Frontend (React)',
     subtitle: 'A simple react frontend application',
     link: 'https://wbkch.github.io/ReactAddUser/',
