@@ -15,7 +15,7 @@ const Index = () => (
         <div className="title">
           <h2 data-testid="heading"><Link to="/">Who Am I?</Link></h2>
           <p>
-            I am a full-stack web developer with a passion for building smart and
+            I am a React developer with a passion for building smart and
             easy-to-use applications. I am a perfectionist with a sense of detail
             and ensure quality and high professionalism in everything I do. One word – programmer.
           </p>
@@ -45,7 +45,7 @@ const Index = () => (
         <br />
         <FontAwesomeIcon icon={faPlus} /> Tools
         <p className="technologies">
-          VS Code, GitHub, Git, Slack, Trello
+          VS Code, GitHub, Git, Slack
         </p>
       </p>
       <br />
