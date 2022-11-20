@@ -14,7 +14,7 @@ const data = [
   {
     title: 'Add User - Frontend (React)',
     subtitle: 'A simple react frontend application',
-    link: 'https://wbkch.github.io/ReactAddUser/',
+    link: 'https://wbkhalid.github.io/ReactAddUser/',
     image: '/images/projects/addUser.jpg',
     date: '2021-05-15',
     desc:
@@ -25,7 +25,7 @@ const data = [
   {
     title: 'Monsters Rolodex - Frontend (React)',
     subtitle: 'A simple react frontend application',
-    link: 'https://wbkch.github.io/Monstar/',
+    link: 'https://wbkhalid.github.io/Monstar/',
     image: '/images/projects/monstersrolodex.PNG',
     date: '2018-05-15',
     desc:
