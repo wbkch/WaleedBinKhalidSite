@@ -45,7 +45,7 @@ const Index = () => (
         <br />
         <FontAwesomeIcon icon={faPlus} /> Tools
         <p className="technologies">
-        VS Code, Teams, Slack, Hubstaff, Notion, Postman, Git, GitHub, Insomnia, Mattermost, Figma, Apidog
+          VS Code, Teams, Slack, Hubstaff, Notion, Postman, Git, GitHub, Insomnia, Mattermost, Figma, Apidog
         </p>
       </p>
       <br />
@@ -57,9 +57,9 @@ const Index = () => (
         <li>
           <Link to="/resume" className="button">Resume</Link>
         </li>
-       {/* <li>
+        {/* <li>
           <Link to="/Projects" className="button">Projects</Link>
-        </li>*/}
+        </li> */}
         <li>
           <a href="https://www.linkedin.com/in/wbkhalid" rel="noreferrer" target="_blank" className="button">LinkedIn</a>
         </li>
