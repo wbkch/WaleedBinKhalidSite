@@ -45,7 +45,7 @@ const Index = () => (
         <br />
         <FontAwesomeIcon icon={faPlus} /> Tools
         <p className="technologies">
-          VS Code, Teams, Slack, Hubstaff, Notion, Postman, Git, GitHub, Insomnia, Mattermost, Figma, Apidog
+          VS Code, Teams, Slack, Hubstaff, Notion, Postman, Git, GitHub, Mattermost, Figma
         </p>
       </p>
       <br />
