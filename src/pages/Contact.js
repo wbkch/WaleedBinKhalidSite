@@ -27,8 +27,8 @@ const Contact = () => (
           <FontAwesomeIcon icon={faPhone} /> (+92) 305 8995952
         </a>
         <br />
-        <a href="mailto:waleedbinkhalid.me@gmail.com" rel="noreferrer" target="_blank">
-          <FontAwesomeIcon icon={faEnvelope} /> waleedbinkhalid.me@gmail.com
+        <a href="mailto:me.waleedbinkhalid@gmail.com" rel="noreferrer" target="_blank">
+          <FontAwesomeIcon icon={faEnvelope} /> me.waleedbinkhalid@gmail.com
         </a>
         <br />
         <a href=" http://maps.google.com/?q=Lahore, Pakistan" rel="noreferrer" target="_blank">
